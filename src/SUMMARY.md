@@ -2,4 +2,10 @@
 
 - [AIinNCEE](README.md)
 - [Foreword](Foreword.md)
-- [Chapter 1](./chapter_1.md)
+- [Preface](Preface.md)
+
+- [Chinese](Chinese/README.md)
+- [Mathematics](Mathematics/README.md)
+- [English](English/README.md)
+- [Physics](Physics/README.md)
+- [Chemistry](Chemistry/README.md)
