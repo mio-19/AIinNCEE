@@ -5,9 +5,20 @@ multilingual = false
 src = "src"
 title = "AIinNCEE: An Introduction to some boring gamesmanship used in the National College Entrance Examination of the the People's Republic of China"
 
+[build]
+create-missing = false
+
 [preprocessor.tera]
 
 [output.latex]
 latex    = true
 pdf      = false
 markdown = true
+
+[output.linkcheck]
+follow-web-links = true
+
+[output.html.fold]
+enable = true
+level = 0
+
