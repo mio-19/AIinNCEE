@@ -1,10 +1,10 @@
 # https://github.com/rust-lang-nursery/mdBook/issues/677
 - [AIinNCEE: An Introduction to some boring gamesmanship used in the National College Entrance Examination of the the People's Republic of China](README.md)
+- [Preface](01-Preface.md)
+- [Foreword](02-Foreword.md)
 - [Chemistry](Chemistry/README.md)
     - [Maximum number of coplanar atoms](Chemistry/Maximum-number-of-coplanar-atoms.md)
 - [Chinese](Chinese/README.md)
 - [English](English/README.md)
-- [Foreword](Foreword.md)
 - [Mathematics](Mathematics/README.md)
 - [Physics](Physics/README.md)
-- [Preface](Preface.md)
