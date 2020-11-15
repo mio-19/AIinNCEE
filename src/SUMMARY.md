@@ -9,3 +9,4 @@
 - [English](English/README.md)
 - [Physics](Physics/README.md)
 - [Chemistry](Chemistry/README.md)
+    - [Maximum number of coplanar atoms](Chemistry/Maximum-number-of-coplanar-atoms.md)
