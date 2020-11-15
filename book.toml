@@ -10,6 +10,9 @@ create-missing = false
 
 [preprocessor.tera]
 
+[output.html]
+mathjax-support = true
+
 [output.latex]
 latex    = true
 pdf      = false
