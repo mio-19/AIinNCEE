@@ -13,10 +13,10 @@ create-missing = false
 [output.html]
 mathjax-support = true
 
-[output.latex]
-latex    = true
-pdf      = false
-markdown = true
+#[output.latex]
+#latex    = true
+#pdf      = false
+#markdown = true
 
 [output.linkcheck]
 follow-web-links = true
@@ -24,4 +24,3 @@ follow-web-links = true
 [output.html.fold]
 enable = true
 level = 0
-

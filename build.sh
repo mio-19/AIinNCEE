@@ -7,7 +7,7 @@ for x in "$@";do
 check "$x" || cargo install "$x"
 done
 }
-require mdbook-tera tectonic mdbook-linkcheck mdbook-generate-summary
-rm src/SUMMARY.md
+require mdbook mdbook-tera mdbook-linkcheck mdbook-generate-summary # mdbook-latex tectonic
+rm -fr src/SUMMARY.md
 mdbook-generate-summary src
 exec mdbook build
