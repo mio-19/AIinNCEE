@@ -1,6 +1,6 @@
 # Primary cell and Electrolytic cell
 
-**Mnemonic**
+## Mnemonic
 
 + Primary cell
     + Negative oxidation; positive reduction (负氧正还)
@@ -10,9 +10,9 @@
     + Positive electrode (正极): Oxidizing substances For example: \\( O_2 \\)
 + Electrolytic cell
 
-**NCEE**
+## NCEE
 
-## Primary cell
+### Primary cell
 
 ![1](Primary-cell-and-Electrolytic-cell/NCEE-1.jpg)
 ![2](Primary-cell-and-Electrolytic-cell/NCEE-2.jpg)
