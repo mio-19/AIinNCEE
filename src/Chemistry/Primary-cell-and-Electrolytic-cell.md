@@ -29,3 +29,7 @@
 ### Electrolytic cell
 
 ![b-1](Primary-cell-and-Electrolytic-cell/NCEE-b-1.jpg)
+
+#### Electrode reaction
+
+![c-1](Primary-cell-and-Electrolytic-cell/NCEE-c-1.jpg)
