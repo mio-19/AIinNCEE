@@ -31,7 +31,7 @@ The total momentum is zero.
 
 #### Algorithm
 + For any collision occurring in an isolated system, momentum is conserved.
-+ One people throwing a ball at a wall \\( I' = I = (2n - 1) m v \\)
++ One people throwing a ball at a wall \\( I' = I = (2n - 1) m v \\) ; \\( I' = M v_n \\)
 + Two people throwing a ball at each other \\( I_1 = (2n - 1) m v \\) ; \\( I_2 = 2n m v \\)
 
 #### NCEE
