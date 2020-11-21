@@ -27,11 +27,11 @@ The total momentum is zero.
 + Momentum and impulse are equal and opposite.
 + \\( \frac{a_1}{a_2} = \frac{v_1}{v_2} = \frac{x_1}{x_2} = \frac{E_{k1}}{E_{k2}} = \frac{m_2}{m_1} \\)
 
-### Collison multiple times
+### Collision multiple times
 
 #### Algorithm
-+ For any collision occuring in an isolated system, momentum is conserved.
-+ One people throwing a ball at the wall \\( I = (2n - 1) m v \\)
++ For any collision occurring in an isolated system, momentum is conserved.
++ One people throwing a ball at a wall \\( I' = I = (2n - 1) m v \\)
 + Two people throwing a ball at each other \\( I_1 = (2n - 1) m v \\) ; \\( I_2 = 2n m v \\)
 
 #### NCEE
