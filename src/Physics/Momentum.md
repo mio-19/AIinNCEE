@@ -20,6 +20,9 @@
 
 ## Recoil
 
+The total momentum is zero.
+
 ### Algorithm
 
-\\( \frac{a_1}{a_2} = \frac{v_1}{v_2} = \frac{x_1}{x_2} = \frac{E_k1}{E_k2} = \frac{m_2}{m_1} \\) Requirements: the total momentum is zero
++ Momentum and impulse are equal and opposite.
++ \\( \frac{a_1}{a_2} = \frac{v_1}{v_2} = \frac{x_1}{x_2} = \frac{E_{k1}}{E_{k2}} = \frac{m_2}{m_1} \\)
