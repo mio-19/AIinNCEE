@@ -17,3 +17,9 @@
 ### Algorithm
 
 \\( Q = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (v_1 - v_2)^2 \\)
+
+## Recoil
+
+### Algorithm
+
+\\( \frac{a_1}{a_2} = \frac{v_1}{v_2} = \frac{x_1}{x_2} = \frac{E_k1}{E_k2} = \frac{m_2}{m_1} \\) Requirements: the total momentum is zero
