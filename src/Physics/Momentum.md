@@ -16,7 +16,7 @@
 
 ### Algorithm
 
-+ \\( Q = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (v_1 - v_2)^2 \\)
++ \\( Q = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (v_1 - v_2)^2 \\) (Available energy, deduced from König's theorem)
 + Use a special reference frame in which total momentum is zero.
 
 ![Note-1](Momentum/Note-1.png)
@@ -40,3 +40,9 @@ Requirements: The total momentum is zero.
 #### NCEE
 
 ![1](Momentum/NCEE-1.jpg)
+
+## Inelastic collision
+
+### Algorithm
+
++ \\( E_{loss} = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (\Delta v_a^2 - \Delta v_b^2) \\) (\\( \Delta v_a \\): Before collision; \\( \Delta v_b \\): After collision)
