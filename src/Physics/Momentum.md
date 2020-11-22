@@ -46,3 +46,8 @@ Requirements: The total momentum is zero.
 ### Algorithm
 
 + \\( E_{loss} = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (\Delta v_a^2 - \Delta v_b^2) \\) (\\( \Delta v_a \\): Before collision; \\( \Delta v_b \\): After collision)
+
+### NCEE
+
+![b-1](Momentum/NCEE-b-1.png)
+![Note-b-1](Momentum/Note-b-1.png)
