@@ -16,11 +16,12 @@
 
 ### Algorithm
 
-\\( Q = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (v_1 - v_2)^2 \\)
++ \\( Q = \frac{1}{2} \frac{m_1 m_2}{m_1 + m_2} (v_1 - v_2)^2 \\)
++ Use a special reference frame in which total momentum is zero.
 
 ## Recoil
 
-The total momentum is zero.
+Requirements: The total momentum is zero.
 
 ### Algorithm
 
