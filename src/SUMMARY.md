@@ -4,6 +4,7 @@
 - [Foreword](02-Foreword.md)
 - [Chemistry](Chemistry/README.md)
     - [Maximum number of coplanar atoms](Chemistry/Maximum-number-of-coplanar-atoms.md)
+    - [Organic](Chemistry/Organic.md)
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
     - [Redox](Chemistry/Redox.md)
 - [Chinese](Chinese/README.md)
