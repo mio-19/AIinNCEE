@@ -5,3 +5,7 @@
 ### Algorithm
 
 + When the gas coefficients on both sides of the reaction equation are equal, \\( V \\) can be canceled, that is one can use \\( n \\) instead of \\(c \\).
+
+### NCEE
+
+![1](Chemical-equilibrium/NCEE-1.png)
