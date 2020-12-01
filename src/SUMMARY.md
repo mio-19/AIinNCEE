@@ -3,6 +3,7 @@
 - [Preface](01-Preface.md)
 - [Foreword](02-Foreword.md)
 - [Chemistry](Chemistry/README.md)
+    - [Chemical equilibrium](Chemistry/Chemical-equilibrium.md)
     - [Maximum number of coplanar atoms](Chemistry/Maximum-number-of-coplanar-atoms.md)
     - [Organic](Chemistry/Organic.md)
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
