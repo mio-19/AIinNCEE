@@ -9,6 +9,7 @@
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
     - [Redox](Chemistry/Redox.md)
 - [Chinese](Chinese/README.md)
+    - [Novel](Chinese/Novel.md)
     - [Themes of novels](Chinese/Themes_of_novels.md)
 - [English](English/README.md)
 - [Handwriting](Handwriting.md)
