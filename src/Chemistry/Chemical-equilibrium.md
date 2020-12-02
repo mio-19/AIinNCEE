@@ -12,9 +12,11 @@
 
 ## \\( K_p \\)
 
-### NCEE
+### Constant pressure
 
-#### 1
+#### NCEE
+
+##### 1
 
 ![2-1](Chemical-equilibrium/NCEE-2-1.png)
 ![2-1-note](Chemical-equilibrium/NCEE-2-1-note.png)
