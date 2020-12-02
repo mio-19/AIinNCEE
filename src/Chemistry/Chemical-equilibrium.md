@@ -9,3 +9,12 @@
 ### NCEE
 
 ![1](Chemical-equilibrium/NCEE-1.png)
+
+## \\( K_p \\)
+
+### NCEE
+
+#### 1
+
+![2-1](Chemical-equilibrium/NCEE-2-1.png)
+![2-1-note](Chemical-equilibrium/NCEE-2-1-note.png)
