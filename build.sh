@@ -1,11 +1,13 @@
 #!/bin/sh
-check(){
-type "$1" >/dev/null 2>/dev/null
+check() {
+  type "$1" >/dev/null 2>/dev/null
 }
-require(){
-for x in "$@";do
-check "$x" || cargo install "$x"
-done
+require() {
+  local toinstall=""
+  for x in "$@";do
+    check "$x" || toinstall="$toinstall $x"
+  done
+  [ -z "$toinstall" ] || cargo install $toinstall
 }
 require mdbook mdbook-tera mdbook-linkcheck mdbook-generate-summary # mdbook-latex tectonic
 rm -fr src/SUMMARY.md
