@@ -20,3 +20,7 @@
 
 ![2](Electric-Field/NCEE-2.jpg)
 ![note](Electric-Field/NCEE-2-note.png)
+
+## Algorithm 2
+
+![Algo2](Electric-Field/Algo2.png)
