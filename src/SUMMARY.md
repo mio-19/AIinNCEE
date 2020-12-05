@@ -17,4 +17,5 @@
     - [Number sequence](Mathematics/Number-sequence.md)
 - [Physics](Physics/README.md)
     - [Eletric Field](Physics/Electric-Field.md)
+    - [Force](Physics/Force.md)
     - [Momentum](Physics/Momentum.md)
