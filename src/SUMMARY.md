@@ -10,7 +10,7 @@
     - [Redox](Chemistry/Redox.md)
 - [Chinese](Chinese/README.md)
     - [Novel](Chinese/Novel.md)
-    - [Themes of novels](Chinese/Themes_of_novels.md)
+    - [Write from memory](Chinese/Write_from_memory.md)
 - [English](English/README.md)
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
