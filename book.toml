@@ -3,7 +3,7 @@ authors = []
 language = "en"
 multilingual = false
 src = "src"
-title = "AIinNCEE: An Introduction to some boring gamesmanship used in the National College Entrance Examination of the the People's Republic of China"
+title = "AIinNCEE: An Introduction to essentials used in the National College Entrance Examination of the the People's Republic of China"
 
 [build]
 create-missing = false
