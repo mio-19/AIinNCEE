@@ -1,6 +1,6 @@
 # Novel
 
-# Themes of novels
+## Themes
 
 The unique social environment and values of mainland China form featured themes in examinations.
 
