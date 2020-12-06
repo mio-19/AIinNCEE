@@ -23,4 +23,8 @@
 \begin{CD}
   RCHO + 2 Cu(OH)_2 + NaOH @>{\Delta}>> Cu_2O + 3 H_2O + RCOONa
 \end{CD}
+\\) \\(
+\begin{CD}
+  RCOONa @>{H^{+}}>> RCOOH
+\end{CD}
 \\)
