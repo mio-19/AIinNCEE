@@ -11,7 +11,7 @@
 + \\(
 \require{AMScd}
 \begin{CD}
-  RCHO + 2 Ag(NH_3)_2OH @>{\Delta}>> H_2O + 2Ag + 3NH3 + RCOONH_4
+  RCHO + 2 Ag(NH_3)_2OH @>{\Delta}>> H_2O + 2Ag \downarrow + 3NH3 + RCOONH_4
 \end{CD}
 \\) \\(
 \begin{CD}
@@ -21,7 +21,7 @@
 
 + \\(
 \begin{CD}
-  RCHO + 2 Cu(OH)_2 + NaOH @>{\Delta}>> Cu_2O + 3 H_2O + RCOONa
+  RCHO + 2 Cu(OH)_2 + NaOH @>{\Delta}>> Cu_2O \downarrow + 3 H_2O + RCOONa
 \end{CD}
 \\) \\(
 \begin{CD}
