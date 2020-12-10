@@ -19,4 +19,5 @@
 - [Physics](Physics/README.md)
     - [Eletric Field](Physics/Electric-Field.md)
     - [Force](Physics/Force.md)
+    - [Kinetic energy](Physics/Kinetic-energy.md)
     - [Momentum](Physics/Momentum.md)
