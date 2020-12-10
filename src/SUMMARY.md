@@ -8,6 +8,7 @@
     - [Organic](Chemistry/Organic.md)
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
     - [Redox](Chemistry/Redox.md)
+    - [Weak electrolyte](Chemistry/Weak-electrolyte.md)
 - [Chinese](Chinese/README.md)
     - [Novel](Chinese/Novel.md)
     - [Poetry](Chinese/Poetry.md)
