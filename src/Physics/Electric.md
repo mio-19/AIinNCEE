@@ -1,26 +1,28 @@
-# Eletric Field
+# Eletric
 
-## Uniform electric Field
+## Eletric Field
 
-### Algorithm
+### Uniform electric Field
+
+#### Algorithm
 
 + In a parallelogram ...
 ![Algo1](Electric-Field/Algo1.png)
 
-## Algorithm: Symmetry
+### Algorithm: Symmetry
 
-### NCEE
+#### NCEE
 
-#### 1
+##### 1
 
 ![1](Electric-Field/NCEE-1.jpg)
 ![note](Electric-Field/NCEE-1-note.png)
 
-#### 2
+##### 2
 
 ![2](Electric-Field/NCEE-2.jpg)
 ![note](Electric-Field/NCEE-2-note.png)
 
-## Algorithm 2
+### Algorithm 2
 
 ![Algo2](Electric-Field/Algo2.png)
