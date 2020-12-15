@@ -1,5 +1,9 @@
 # Chemical equilibrium
 
+## Overall concentration changes
+
+Increasing the concentration of the reactants is equivalent to increasing the pressure.
+
 ## \\( K_c \\)
 
 ### Algorithm
