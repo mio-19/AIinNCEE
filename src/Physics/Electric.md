@@ -26,3 +26,14 @@
 ### Algorithm 2
 
 ![Algo2](Electric-Field/Algo2.png)
+
+## Capacitor
+
+\\( C = \frac{Q}{U} \\)
+\\( C = \frac{\epsilon_r S}{4 \pi k d} \\)
+
+\\( E = \frac{U}{d} \\)
+
+### Algorithm: \\( E \propto \frac{Q}{S} \\)
+
+Proof: \\( E = \frac{Q}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 \pi k d} d} = \frac{4 \pi k Q}{\epsilon S} \\)
