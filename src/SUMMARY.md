@@ -21,6 +21,7 @@
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
     - [Number sequence](Mathematics/Number-sequence.md)
+    - [Solid geometry](Mathematics/Solid_geometry.md)
 - [Physics](Physics/README.md)
     - [Eletric](Physics/Electric.md)
     - [Force](Physics/Force.md)
