@@ -36,4 +36,4 @@
 
 ### Algorithm: \\( E \propto \frac{Q}{S} \\)
 
-Proof: \\( E = \frac{Q}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 \pi k d} d} = \frac{4 \pi k Q}{\epsilon S} \\)
+Proof: \\( E = \frac{U}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 \pi k d} d} = \frac{4 \pi k Q}{\epsilon S} \\)
