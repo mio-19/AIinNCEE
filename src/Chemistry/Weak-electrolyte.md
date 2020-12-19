@@ -15,3 +15,11 @@ Proof for example
 \\( v_{negative} = k_{negative} c^2(NO) \cdot c(O_2) \\)
 When balanced, \\( v_{postive} = v_{negative} \\) \\( \frac{k_{postive}}{k_{negative}} = \frac{c^2(NO) \cdot c(O_2)}{c^2(NO_2)} = K \\)
 Other times, \\( \frac{v_{postive}}{v_{negative}} = \frac{k_{postive}}{k_{negative}} \cdot \frac{c^2(NO_2)}{c^2(NO) \cdot c(O_2)} = \frac{K}{Q} \\)
+
+## K_h
+
+\\( K_h = \frac{K_w}{K_a} \\)
+
+Proof:
+
+\\( K_h = \frac{c(HA) \cdot c(OH^-)}{c(A^-)} = \frac{c(HA) \cdot c(OH^-) \cdot c(H+)}{c(A^-) \cdot c(H+)} = \frac{K_w}{K_a} \\)
