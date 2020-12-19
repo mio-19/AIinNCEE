@@ -23,3 +23,7 @@ Other times, \\( \frac{v_{postive}}{v_{negative}} = \frac{k_{postive}}{k_{negati
 Proof:
 
 \\( K_h = \frac{c(HA) \cdot c(OH^-)}{c(A^-)} = \frac{c(HA) \cdot c(OH^-) \cdot c(H+)}{c(A^-) \cdot c(H+)} = \frac{K_w}{K_a} \\)
+
+### NCEE
+
+![1](Weak-electrolyte/NCEE-1.jpg)
