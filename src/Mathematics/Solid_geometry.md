@@ -18,6 +18,8 @@ Proof for example:
 
 Mnemonic: 两只老虎
 
-### Regular Tetrahedron
+### Tetrahedron
+
+#### Opposite sides are equal
 
 ![1](Solid_geometry/Tetrahedron1.png)
