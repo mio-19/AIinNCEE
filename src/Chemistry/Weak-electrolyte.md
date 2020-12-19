@@ -1,6 +1,6 @@
 # Weak electrolyte
 
-## Mnemonic
+## Mnemonic for speed
 
 + Negative Negative Positive Positive: \\( X^{+} + H_2O \rightleftharpoons XOH + H^{+} \\) \\( X^{-} + H_2O \rightleftharpoons HX + OH^{-} \\)
 
