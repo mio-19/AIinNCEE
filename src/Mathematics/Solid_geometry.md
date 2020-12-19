@@ -23,3 +23,7 @@ Mnemonic: 两只老虎
 #### Opposite sides are equal
 
 ![1](Solid_geometry/Tetrahedron1.png)
+
+##### NCEE
+
+![1](Solid_geometry/Tetrahedron1-1.png)
