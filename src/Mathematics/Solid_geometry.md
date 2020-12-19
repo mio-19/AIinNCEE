@@ -27,3 +27,9 @@ Mnemonic: 两只老虎
 ##### NCEE
 
 ![1](Solid_geometry/Tetrahedron1-1.png)
+
+### Inscribed sphere of a Pyramid
+
+\\( R = \frac{3V}{S} \\)
+
+Wikipedia for Tetrahedron: https://web.archive.org/web/20201219035254/https://zh.wikipedia.org/wiki/%E5%86%85%E5%88%87%E7%90%83
