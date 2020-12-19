@@ -35,3 +35,9 @@ Mnemonic: 两只老虎
 Regular tetrahedron with edge length \\( a \\): \\( R = \frac{\sqrt{6}}{12} a \\)
 
 [Wikipedia for Tetrahedron](https://web.archive.org/web/20201219035254/https://zh.wikipedia.org/wiki/%E5%86%85%E5%88%87%E7%90%83)
+
+## normal vector
+
+### Algorithm: intercept
+
+![1](Solid_geometry/Algo-intercept.png)
