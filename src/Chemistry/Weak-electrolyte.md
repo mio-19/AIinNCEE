@@ -1,5 +1,9 @@
 # Weak electrolyte
 
+## Mnemonic
+
++ Negative Negative Positive Positive: \\( X^{+} + H_2O \rightleftharpoons XOH + H^{+} \\) \\( X^{-} + H_2O \rightleftharpoons HX + OH^{-} \\)
+
 ## Unimportant Algorithm 1
 
 \\( \frac{v_{postive}}{v_{negative}} = \frac{K}{Q} \\)
