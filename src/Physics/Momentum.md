@@ -23,7 +23,7 @@
 
 ## Recoil
 
-Requirements: The total momentum is zero.
+Requirement: The total momentum is zero.
 
 ### Algorithm
 
