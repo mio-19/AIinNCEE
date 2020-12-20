@@ -26,5 +26,6 @@
     - [Eletric](Physics/Electric.md)
     - [Force](Physics/Force.md)
     - [Kinetic energy](Physics/Kinetic-energy.md)
+    - [Magnetic Field](Physics/Magnetic-Field.md)
     - [Momentum](Physics/Momentum.md)
     - [Movement](Physics/Movement.md)
