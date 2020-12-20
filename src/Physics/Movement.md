@@ -19,3 +19,7 @@ Note: Sometimes the speed cannot decease to 0.
 #### Solution
 
 ![1](Movement/Exercise1-solution.png)
+
+## Algorithm 2
+
+\\( \left\lvert \frac{F_x}{F_y} \right\rvert = \left\lvert \frac{\Delta v_x}{\Delta v_y} \right\rvert \\)
