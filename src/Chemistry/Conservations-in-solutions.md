@@ -16,6 +16,8 @@ If \\( c(A^+) + c(B^+) = c(C^-) + c(D^-) \\)
 
 \\( c(A^+) > c(B^-) > c(C^+) > c(D^-) \\) and \\( c(A^+) > c(C^+) > c(B^-) > c(D^-) \\) are false
 
+In other word, The first and last ion must be both positive or both negative.
+
 ## Conservation of Matter
 
 Sign: has ions and molecules; no \\( H^+ \\) \\( OH^- \\)
