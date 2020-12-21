@@ -18,6 +18,10 @@ If \\( c(A^+) + c(B^+) = c(C^-) + c(D^-) \\)
 
 In other word, The first and last ion must be both positive or both negative.
 
+#### NCEE
+
+![2](Conservations-in-solutions/NCEE-1-2.png)
+
 ## Conservation of Matter
 
 Sign: has ions and molecules; no \\( H^+ \\) \\( OH^- \\)
