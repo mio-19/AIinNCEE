@@ -10,6 +10,12 @@ Sign: no molecule, only ions
 
 ![1](Conservations-in-solutions/NCEE-1-1.png)
 
+### Algorithm 1
+
+If \\( c(A^+) + c(B^+) = c(C^-) + c(D^-) \\)
+
+\\( c(A^+) > c(B^-) > c(C^+) > c(D^-) \\) and \\( c(A^+) > c(C^+) > c(B^-) > c(D^-) \\) are false
+
 ## Conservation of Matter
 
 Sign: has ions and molecules; no \\( H^+ \\) \\( OH^- \\)
