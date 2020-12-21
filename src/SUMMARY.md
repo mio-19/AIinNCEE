@@ -4,6 +4,7 @@
 - [Foreword](02-Foreword.md)
 - [Chemistry](Chemistry/README.md)
     - [Chemical equilibrium](Chemistry/Chemical-equilibrium.md)
+    - [Conservations in Solutions](Chemistry/Conservations-in-solutions.md)
     - [Maximum number of coplanar atoms](Chemistry/Maximum-number-of-coplanar-atoms.md)
     - [Organic](Chemistry/Organic.md)
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
