@@ -29,3 +29,7 @@ Sign: has ions and molecules; no \\( H^+ \\) \\( OH^- \\)
 ## Conservation of protons
 
 Sign: has ions and molecules and \\( H^+ \\) and \\( OH^- \\)
+
+## Extra: Concentration comparison
+
+Major forms > Primary hydrolysis products and Primary ionization products > others
