@@ -33,3 +33,7 @@ Sign: has ions and molecules and \\( H^+ \\) and \\( OH^- \\)
 ## Extra: Concentration comparison
 
 Major forms > Primary hydrolysis products and Primary ionization products > others
+
+### \\( MA : HA = 1 : 1 \\)
+
+Either \\( c(HA) > c(M+) > c(A^-) \\) or \\( c(A^-) > c(M+) > c(HA) \\) is true
