@@ -29,3 +29,7 @@ Increasing the concentration of the reactants is equivalent to increasing the pr
 
 ![2-1](Chemical-equilibrium/NCEE-2-1.png)
 ![2-1-note](Chemical-equilibrium/NCEE-2-1-note.png)
+
+## \\( N_2 + 3H_2 \rightleftharpoons 2NH_3 \\)
+
+\\( \frac{3-x}{6-2x} \\) = 2
