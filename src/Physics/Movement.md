@@ -30,4 +30,6 @@ Note: Sometimes the speed cannot decease to 0.
 
 \\( y = \frac{1}{2} a t^2 = \frac{1}{2} a (\frac{x}{v_0})^2 = \frac{F}{2m v_0^2} x^2 = \frac{F}{4E_{k0}} x^2 \\)
 
-\\( tan \alpha = y' = \frac{F}{m v_0^2} x = \frac{F}{2E_{k0}} x \\)
+\\( tan \theta = y' = \frac{F}{m v_0^2} x = \frac{F}{2E_{k0}} x \\)
+
+\\( tan \theta_v = 2 tan \theta \\)
