@@ -44,6 +44,6 @@ Regular tetrahedron with edge length \\( a \\): \\( R = \frac{\sqrt{6}}{12} a \\
 
 No intersection: For example, \\( n = (0, y, z) \\) if and only if there is no intersection between the plane and the x-axis.
 
-## Point-to-Plane Distance
+### Algorithm: Point-to-Plane Distance
 
 \\( \frac{\vec{v}\vec{n}}{\left\lvert n \right\rvert} \\)
