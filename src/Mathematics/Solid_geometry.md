@@ -47,3 +47,7 @@ No intersection: For example, \\( n = (0, y, z) \\) if and only if there is no i
 ### Algorithm: Point-to-Plane Distance
 
 \\( \frac{\vec{v}\vec{n}}{\left\lvert n \right\rvert} \\)
+
+## Algorithm: Pyramid Projection
+
+![img](Solid_geometry/Algo-projection.png)
