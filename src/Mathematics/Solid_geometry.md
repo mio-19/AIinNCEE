@@ -43,3 +43,7 @@ Regular tetrahedron with edge length \\( a \\): \\( R = \frac{\sqrt{6}}{12} a \\
 ![1](Solid_geometry/Algo-intercept.png)
 
 No intersection: For example, \\( n = (0, y, z) \\) if and only if there is no intersection between the plane and the x-axis.
+
+## Point-to-Plane Distance
+
+\\( \frac{\vec{v}\vec{n}}{\left\lvert n \right\rvert} \\)
