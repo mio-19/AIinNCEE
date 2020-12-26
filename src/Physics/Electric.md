@@ -44,3 +44,8 @@ Proof: \\( E = \frac{U}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 
 
 + sine, cosine: \\( I = \frac{I_{max}}{\sqrt{2}} \\)
 + Calculate the average of \\( I^2 \\)
+
+## Algorithm: Dynamic analysis of the circuit with internal resistance
+
+Components connected in series: Inverted ratio
+Paralleled: proportional
