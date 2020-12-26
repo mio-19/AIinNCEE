@@ -37,3 +37,10 @@
 ### Algorithm: \\( E \propto \frac{Q}{S} \\)
 
 Proof: \\( E = \frac{U}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 \pi k d} d} = \frac{4 \pi k Q}{\epsilon S} \\)
+
+## Alternating Current
+
+### Algorithm: Equivalent current
+
++ sine, cosine: \\( I = \frac{I_{max}}{\sqrt{2}} \\)
++ Calculate the average of \\( I^2 \\)
