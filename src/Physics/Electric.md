@@ -49,3 +49,4 @@ Proof: \\( E = \frac{U}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 
 
 Components connected in series: Inverted ratio
 Paralleled: proportional
+...
