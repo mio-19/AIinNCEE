@@ -9,6 +9,7 @@
     - [Organic](Chemistry/Organic.md)
     - [Primary cell and Electrolytic cell](Chemistry/Primary-cell-and-Electrolytic-cell.md)
     - [Redox](Chemistry/Redox.md)
+    - [Structure of matter: Electron-dot diagram & Structural formula](Chemistry/Structure.md)
     - [Weak electrolyte](Chemistry/Weak-electrolyte.md)
 - [Chinese](Chinese/README.md)
     - [Novel](Chinese/Novel.md)
