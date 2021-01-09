@@ -51,3 +51,9 @@ No intersection: For example, \\( n = (0, y, z) \\) if and only if there is no i
 ## Algorithm: Pyramid Projection
 
 ![img](Solid_geometry/Algo-projection.png)
+
+Note: The side edge is perpendicular to the projection surface.
+
+### NCEE
+
+![0](Solid_geometry/NCEE-0.jpg)
