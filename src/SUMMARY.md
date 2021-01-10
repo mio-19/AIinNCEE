@@ -22,6 +22,7 @@
 - [English](English/README.md)
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
+    - [Exponential & Logarithm](Mathematics/Exponential_Logarithm.md)
     - [Number sequence](Mathematics/Number-sequence.md)
     - [On A Plane ...](Mathematics/Plane.md)
     - [Solid geometry](Mathematics/Solid_geometry.md)
