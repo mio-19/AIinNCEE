@@ -23,6 +23,7 @@
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
     - [Number sequence](Mathematics/Number-sequence.md)
+    - [Plane](Mathematics/Plane.md)
     - [Solid geometry](Mathematics/Solid_geometry.md)
 - [Physics](Physics/README.md)
     - [Eletric](Physics/Electric.md)
