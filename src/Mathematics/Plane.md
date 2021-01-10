@@ -5,7 +5,7 @@
 General Form: \\( A x + B y + C = 0 \\)
 Form 1: \\( y = k x + b \\)
 
-### Algorithm 1
+### Theorem 1
 
 \\( A x + B y + C \\) have the same sign \\( \iff \\) Points are on the same side
 
@@ -15,7 +15,7 @@ Form 1: \\( y = k x + b \\)
 
 ![1](Plane/NCEE-1.png)
 
-### Algorithm 2
+### Theorem 2
 
 If the range of angles is continuous
 
