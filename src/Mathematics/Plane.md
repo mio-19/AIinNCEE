@@ -22,3 +22,7 @@ If the range of angles is continuous
 90 degree is in the range and it is not the endpoint \\( \iff \\) the range of slope is discontinuous
 
 90 degree is in the range \\( \iff \\) there is \\( \infty \\) in the expression of the range of slope
+
+#### NCEE
+
+![2](Plane/NCEE2.png)
