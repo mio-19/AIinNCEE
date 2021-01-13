@@ -13,4 +13,7 @@
 \\( \sqrt{x y} + \sqrt{x z} - y - z = \sqrt{\lambda x (\frac{1}{\lambda}) y} + \sqrt{\mu x (\frac{1}{\mu}) z} - y - z \leq  \frac{\lambda + \mu}{2} x + (\frac{1}{2 \lambda} - 1) y + (\frac{1}{2 \mu} - 1) z \\)
 
 \\( \frac{\lambda + \mu}{2} = \frac{1}{2 \lambda} - 1 = \frac{1}{2 \mu} - 1 \\)
+
 ......
+
+\\(\frac{\sqrt{3}-1}{2}\\)
