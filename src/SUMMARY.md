@@ -24,6 +24,7 @@
 - [Mathematics](Mathematics/README.md)
     - [Exponential & Logarithm](Mathematics/Exponential_Logarithm.md)
     - [Function](Mathematics/Function.md)
+    - [Inequality of arithmetic and geometric means](Mathematics/Inequality_of_arithmetic_and_geometric_means.md)
     - [Number sequence](Mathematics/Number-sequence.md)
     - [On A Plane ...](Mathematics/Plane.md)
     - [Solid geometry](Mathematics/Solid_geometry.md)
