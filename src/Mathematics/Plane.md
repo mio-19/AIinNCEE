@@ -26,3 +26,7 @@ If the range of angles is continuous
 #### NCEE
 
 ![2](Plane/NCEE2.png)
+
+## Parametric Equation
+
+[Wikipedia](https://web.archive.org/web/20210116104333/https://en.wikipedia.org/wiki/Parametric_equation)
