@@ -3,7 +3,7 @@
 The only case where all atoms are not coplanar is saturated carbon atoms.
 A saturated carbon atom is a carbon atom that has only single bonds between other atoms.
 
-## Algorithm
+## Procedure
 1. Locate saturated carbon atoms
 2. Cut out 2 bonds in the principle of maximizing the number of atoms remaining
 

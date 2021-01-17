@@ -2,7 +2,7 @@
 
 ## Work-energy theorem
 
-### Algorithm: decomposition
+### Procedure: decomposition
 
 #### one case
 

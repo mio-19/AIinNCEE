@@ -1,10 +1,10 @@
 # Number sequence
 
-## Algorithm
+## Procedure
 
 + Given \\( a_{n+1} = k a_n + p a_{n-1} \\), \\( a_{n+1} - x a_n = (k - x) (a_n - x a_{n-1}) \\) where \\( x^2 = k x + p \\)
 
-## Algorithm: `y = x` Model
+## Procedure: `y = x` Model
 
 [Baidu Scholar](https://web.archive.org/web/20210111115001/https://xueshu.baidu.com/usercenter/paper/show?paperid=1k6y0j30tp4t0pb0gp1k0e30mv292076&site=xueshu_se)
 [ixueshu](https://web.archive.org/web/20210111115140/https://www.ixueshu.com/document/e593e93b446046f386b00900c86b1678318947a18e7f9386.html)

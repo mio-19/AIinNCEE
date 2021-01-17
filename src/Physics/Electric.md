@@ -4,12 +4,12 @@
 
 ### Uniform electric Field
 
-#### Algorithm
+#### Procedure
 
 + In a parallelogram ...
 ![Algo1](Electric-Field/Algo1.png)
 
-### Algorithm: Symmetry
+### Procedure: Symmetry
 
 #### NCEE
 
@@ -23,7 +23,7 @@
 ![2](Electric-Field/NCEE-2.jpg)
 ![note](Electric-Field/NCEE-2-note.png)
 
-### Algorithm 2
+### Procedure 2
 
 ![Algo2](Electric-Field/Algo2.png)
 
@@ -34,18 +34,18 @@
 
 \\( E = \frac{U}{d} \\)
 
-### Algorithm: \\( E \propto \frac{Q}{S} \\)
+### Procedure: \\( E \propto \frac{Q}{S} \\)
 
 Proof: \\( E = \frac{U}{d} = \frac{Q}{C \cdot d} = \frac{Q}{\frac{\epsilon S}{4 \pi k d} d} = \frac{4 \pi k Q}{\epsilon S} \\)
 
 ## Alternating Current
 
-### Algorithm: Equivalent current
+### Procedure: Equivalent current
 
 + sine, cosine: \\( I = \frac{I_{max}}{\sqrt{2}} \\)
 + Calculate the average of \\( I^2 \\)
 
-## Algorithm: Dynamic analysis of the circuit with internal resistance
+## Procedure: Dynamic analysis of the circuit with internal resistance
 
 Components connected in series: Inverted ratio
 Paralleled: proportional

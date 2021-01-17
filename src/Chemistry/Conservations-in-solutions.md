@@ -10,7 +10,7 @@ Sign: no molecule, only ions
 
 ![1](Conservations-in-solutions/NCEE-1-1.png)
 
-### Algorithm 1
+### Procedure 1
 
 If \\( c(A^+) + c(B^+) = c(C^-) + c(D^-) \\)
 

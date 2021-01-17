@@ -1,6 +1,6 @@
 # Force
 
-## Algorithm: Similar triangles
+## Procedure: Similar triangles
 
 + Geometric triangles are similar to vector triangles
 
@@ -11,7 +11,7 @@
 ![1](Force/NCEE-1.jpg)
 ![Note-1](Force/Note-1.png)
 
-## Algorithm: Deformed Lever
+## Procedure: Deformed Lever
 
 + Two balls balanced by three forces
 + Have a pair of internal forces (e.g., coulombic forces)
@@ -23,7 +23,7 @@
 ![3](Force/NCEE-3.jpg)
 ![4](Force/NCEE-4.jpg)
 
-## Algorithm 3
+## Procedure 3
 
 Requirement: The resultant force of multiple forces is zero
 
