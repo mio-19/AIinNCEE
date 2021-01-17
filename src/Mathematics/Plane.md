@@ -52,7 +52,7 @@ Point 0 \\( P_0(x_0,y_0) \\)
 
 Point 1 \\(x=x_0-2d_2A\\) \\(y=y_0-2d_2B\\)
 
-## Rounding
+## Circle
 
 \\((x-a)^2+(y-b)^2=r^2\\)
 
@@ -65,3 +65,7 @@ Line AB: \\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
 ### NCEE
 
 ![1](Plane/NCEE3.png)
+
+### NCEE: Relations between multiple circles
+
+![](Plane/NCEE4-1.png)![](Plane/NCEE4-2.png)
