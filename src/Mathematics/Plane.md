@@ -51,3 +51,9 @@ Point 0 \\( P_0(x_0,y_0) \\)
 \\(d_2=\frac{Ax_0+By_0+C}{A^2+B^2}\\)
 
 Point 1 \\(x=x_0-2d_2A\\) \\(y=y_0-2d_2B\\)
+
+## Rounding
+
+\\((x-a)^2+(y-b)^2=r^2\\)
+
+Tangent:\\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
