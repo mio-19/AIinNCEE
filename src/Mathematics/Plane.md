@@ -27,13 +27,27 @@ If the range of angles is continuous
 
 ![2](Plane/NCEE2.png)
 
-## Parametric Equation
-
-[Wikipedia](https://web.archive.org/web/20210116104333/https://en.wikipedia.org/wiki/Parametric_equation)
-
 ### NCEE: Parallel; Vertical and Auxiliary Rounding
 
 ![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/1.png)
 ![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/2.png)
 ![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/3.png)
 ![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/4.png)
+
+## Parametric Equation
+
+[Wikipedia](https://web.archive.org/web/20210116104333/https://en.wikipedia.org/wiki/Parametric_equation)
+
+## Procedure: reflect a point across a line
+
+Given
+
+Line \\( Ax+By+C=0 \\)
+
+Point 0 \\( P_0(x_0,y_0) \\)
+
+,
+
+\\(d_2=\frac{Ax_0+By_0+C}{A^2+B^2}\\)
+
+Point 1 \\(x=x_0-2d_2A\\) \\(y=y_0-2d_2B\\)
