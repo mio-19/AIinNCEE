@@ -57,3 +57,7 @@ Point 1 \\(x=x_0-2d_2A\\) \\(y=y_0-2d_2B\\)
 \\((x-a)^2+(y-b)^2=r^2\\)
 
 Tangent:\\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
+
+![shape](Plane/Shape-1.png)
+
+Line AB: \\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
