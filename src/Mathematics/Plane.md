@@ -61,3 +61,7 @@ Tangent:\\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
 ![shape](Plane/Shape-1.png)
 
 Line AB: \\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
+
+### NCEE
+
+![1](Plane/NCEE3.png)
