@@ -30,3 +30,10 @@ If the range of angles is continuous
 ## Parametric Equation
 
 [Wikipedia](https://web.archive.org/web/20210116104333/https://en.wikipedia.org/wiki/Parametric_equation)
+
+### NCEE: Parallel; Vertical and Auxiliary Rounding
+
+![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/1.png)
+![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/2.png)
+![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/3.png)
+![img](Plane/NCEE_Line_Parallel_Vertical_Auxiliary_Rounding/4.png)
