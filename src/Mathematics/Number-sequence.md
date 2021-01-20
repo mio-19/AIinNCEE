@@ -20,3 +20,7 @@ A. \[-2,2\] B. \[-2,0\] C. \[0,\\( \frac{1}{4} \\)\] D. \[-2,\\( \frac{1}{4}\\)\
 [Wikipedia](https://web.archive.org/web/20210120124018/https://zh.wikipedia.org/wiki/%E6%94%BE%E7%BC%A9%E6%B3%95)
 
 \\(a_1\frac{1-q^n}{1-q}\leq\frac{a_1}{1-q}\\) where \\(q\in\(0,1\)\\)
+
+### NCEE
+
+![1](Number-sequence/NCEE-1.jpg)
