@@ -24,3 +24,5 @@ A. \[-2,2\] B. \[-2,0\] C. \[0,\\( \frac{1}{4} \\)\] D. \[-2,\\( \frac{1}{4}\\)\
 ### NCEE
 
 ![1](Number-sequence/NCEE-1.jpg)
+
+![](Number-sequence/NCEE-2.jpg)
