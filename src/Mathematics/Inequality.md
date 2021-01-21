@@ -1,6 +1,6 @@
 # Inequality
 
-## Sugar water inequality
+## Procedure: Sugar water inequality
 
 [baidu](https://web.archive.org/web/20210121121900/https://baike.baidu.com/item/%E7%B3%96%E6%B0%B4%E4%B8%8D%E7%AD%89%E5%BC%8F)
 
