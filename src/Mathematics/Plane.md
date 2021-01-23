@@ -69,3 +69,7 @@ Line AB: \\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
 ### NCEE: Relations between multiple circles
 
 ![](Plane/NCEE4-1.png)![](Plane/NCEE4-2.png)
+
+## Ellipse
+
+\\( S_{\Delta F_1 P F_2} = b^2 tan \frac{\theta}{2} = c \left\lvert y_p \right\rvert \\)
