@@ -74,10 +74,24 @@ Line AB: \\((x-a)(x_0-a)+(y-b)(y_0-b)=r^2\\)
 
 ![](Plane/Shape-2.png)
 
+Theorem:
+
 \\( S_{\Delta F_1 P F_2} = \frac{1}{2} \left\lvert F_1F_2 \right\rvert \left\lvert y_p \right\rvert = c \left\lvert y_p \right\rvert \\)
 
 \\( S_{\Delta F_1 P F_2} = b^2 tan \frac{\theta}{2} \\)
 
+### Theorem 1
+
+\\(c\in\[sin\frac{\theta}2,1\)\\)
+
+#### NCEE
+
+![](Plane/NCEE-5/1.png)
+
 ## Hyperbola
 
 \\( S_{\Delta F_1 P F_2} = b^2 cot \frac{\theta}{2} \\)
+
+### NCEE
+
+![](Plane/NCEE-5/2.png)
