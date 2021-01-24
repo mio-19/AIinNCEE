@@ -97,6 +97,8 @@ Ellipse/Hyperbola \\(k_{PA}\cdot k_{PB}=e^2-1\\)
 
 Proof: \\(x^2+(\frac{a}{b}y)^2=a^2\\) Then regard it as a circle
 
+(or, can alternatively be deduced from [point difference method](https://web.archive.org/web/20210124115008/https://baike.baidu.com/item/%E7%82%B9%E5%B7%AE%E6%B3%95))
+
 ![](Plane/Shape-4.png)
 
 Ellipse/Hyperbola \\(k_{MO}\cdot k_{BP}=e^2-1\\)
