@@ -89,6 +89,12 @@ Theorem:
 ![](Plane/NCEE-5/1.png)
 ![](Plane/NCEE-5/3.png)
 
+### Theorem 2
+
+![](Plane/Shape-3.png)
+
+\\(k_{PA}\cdot k_{PB}=e^2-1\\)
+
 ## Hyperbola
 
 \\( S_{\Delta F_1 P F_2} = b^2 cot \frac{\theta}{2} \\)
