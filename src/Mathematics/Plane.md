@@ -122,3 +122,7 @@ Parabola/Ellipse/Hyperbola: \\(AF=\lambda BF\iff \left\lvert e\cdot cos\theta\ri
 
 \\(\frac{p}{1\pm\left\lvert cos\theta\right\rvert}\\)
 Long minus;short add
+
+#### NCEE
+
+![](Plane/NCEE-6.jpeg)
