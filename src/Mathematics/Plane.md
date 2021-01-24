@@ -87,6 +87,7 @@ Theorem:
 #### NCEE
 
 ![](Plane/NCEE-5/1.png)
+![](Plane/NCEE-5/3.png)
 
 ## Hyperbola
 
