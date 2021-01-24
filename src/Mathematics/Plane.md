@@ -112,3 +112,5 @@ Theorem:
 ### Theorem 1
 
 ![](Plane/Theorem1.png)
+
+Ellipse/Hyperbola: \\(AF=\frac{\frac{b^2}a}{1-e\cdot cos\theta}BF=\frac{\frac{b^2}a}{1+e\cdot cos\theta}\\)
