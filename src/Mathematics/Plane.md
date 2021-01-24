@@ -106,3 +106,9 @@ Theorem:
 ### Theorem 2
 
 \\(k_{PA}\cdot k_{PB}=e^2-1\\)
+
+## Parabola
+
+### Theorem 1
+
+![](Plane/Theorem1.png)
