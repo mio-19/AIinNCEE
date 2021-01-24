@@ -116,7 +116,7 @@ Theorem:
 
 Ellipse/Hyperbola: \\(AF=\frac{\frac{b^2}a}{1-e\cdot cos\theta}BF=\frac{\frac{b^2}a}{1+e\cdot cos\theta}\\)
 
-Parabola/Ellipse/Hyperbola: \\(AF=\lambda BF\iff e\cdot cos\theta=\frac{\lambda-1}{\lambda+1}\\)
+Parabola/Ellipse/Hyperbola: \\(AF=\lambda BF\iff \left\lvert e\cdot cos\theta\right\rvert=\left\lvert\frac{\lambda-1}{\lambda+1}\right\rvert\\)
 
 #### Mnemonic
 
