@@ -95,7 +95,11 @@ Theorem:
 
 Ellipse/Hyperbola \\(k_{PA}\cdot k_{PB}=e^2-1\\)
 
-Proof: \\(x^2+(\frac{a}{b}y)^2=a^2\\) Regard it as a circle
+Proof: \\(x^2+(\frac{a}{b}y)^2=a^2\\) Then regard it as a circle
+
+![](Plane/Shape-4.png)
+
+Ellipse/Hyperbola \\(k_{MO}\cdot k_{BP}=e^2-1\\)
 
 ## Hyperbola
 
