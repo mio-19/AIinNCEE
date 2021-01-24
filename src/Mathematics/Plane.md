@@ -102,3 +102,7 @@ Theorem:
 ### NCEE
 
 ![](Plane/NCEE-5/2.png)
+
+### Theorem 2
+
+\\(k_{PA}\cdot k_{PB}=e^2-1\\)
