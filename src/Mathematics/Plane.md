@@ -112,7 +112,7 @@ Theorem:
 ### Theorem 1
 
 ![](Plane/Theorem1.png)
-\\(AB=\frac{2p}{1-cos^2\theta}=\frac{2p}{sin^2\theta}\\)
+\\(AB=AF+BF=\frac{2p}{1-cos^2\theta}=\frac{2p}{sin^2\theta}\\)
 
 Ellipse/Hyperbola: \\(AF=\frac{\frac{b^2}a}{1-e\cdot cos\theta}BF=\frac{\frac{b^2}a}{1+e\cdot cos\theta}\\)
 
