@@ -126,3 +126,5 @@ Long minus;short add
 #### NCEE
 
 ![](Plane/NCEE-6.jpeg)
+
+![](Plane/NCEE-7.png)
