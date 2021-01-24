@@ -114,3 +114,8 @@ Theorem:
 ![](Plane/Theorem1.png)
 
 Ellipse/Hyperbola: \\(AF=\frac{\frac{b^2}a}{1-e\cdot cos\theta}BF=\frac{\frac{b^2}a}{1+e\cdot cos\theta}\\)
+
+#### Mnemonic
+
+\\(\frac{p}{1\pm\left\lvert cos\theta\right\rvert}\\)
+Long minus;short add
