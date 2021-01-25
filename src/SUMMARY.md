@@ -29,6 +29,7 @@
     - [Number sequence](Mathematics/Number-sequence.md)
     - [On A Plane ...](Mathematics/Plane.md)
     - [Solid geometry](Mathematics/Solid_geometry.md)
+    - [Some Methods](Mathematics/Some_Methods.md)
     - [Statistics & Probability](Mathematics/Statistics_Probability.md)
 - [Physics](Physics/README.md)
     - [Eletric](Physics/Electric.md)
