@@ -144,3 +144,7 @@ Long minus;short add
 \\(\Delta=4b^2B^2a^2(a^2A^2+b^2B^2-C^2)\\)
 
 \\(\Delta'=a^2A^2+b^2B^2-C^2\\)
+
+#### NCEE
+
+![](Plane/NCEE-8.png)
