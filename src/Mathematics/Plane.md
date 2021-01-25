@@ -132,3 +132,15 @@ Long minus;short add
 ![](Plane/NCEE-6.jpeg)
 
 ![](Plane/NCEE-7.png)
+
+## 设点联立韦达
+
+### Ellipse
+
+\\(\frac{x^2}{a^2}+\frac{y^2}{b^2}=1\\) and \\(Ax+By+C=0\\)
+
+\\(\iff\\)
+
+\\(\Delta=4b^2B^2a^2(a^2A^2+b^2B^2-C^2)\\)
+
+\\(\Delta'=a^2A^2+b^2B^2-C^2\\)
