@@ -145,6 +145,8 @@ Long minus;short add
 
 \\(\Delta'=a^2A^2+b^2B^2-C^2\\)
 
+Hyperbola: \\(\frac{x^2}{a^2}-\frac{y^2}{b^2}=1\iff\frac{x^2}{a^2}+\frac{y^2}{(b i)^2}=1\\) so \\(\Delta'=C^2+b^2B^2-a^2A^2\\)
+
 #### NCEE
 
 ![](Plane/NCEE-8.png)
