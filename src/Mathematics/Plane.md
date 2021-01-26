@@ -135,7 +135,9 @@ Long minus;short add
 
 ## 设点联立韦达
 
-### Ellipse
+### 1
+
+Ellipse:
 
 \\(\frac{x^2}{a^2}+\frac{y^2}{b^2}=1\\) and \\(Ax+By+C=0\\)
 
@@ -150,3 +152,7 @@ Hyperbola: \\(\frac{x^2}{a^2}-\frac{y^2}{b^2}=1\iff\frac{x^2}{a^2}+\frac{y^2}{(b
 #### NCEE
 
 ![](Plane/NCEE-8.png)
+
+### 2
+
+\\(\alpha x^2+\beta y^2=\gamma\\) and \\(Ax^2+By+C=0\\) \\(\iff\\) \\((\alpha B^2+\beta A^2)x^2+2CA\beta x+\beta C^2-\gamma B^2\\)
