@@ -156,3 +156,5 @@ Hyperbola: \\(\frac{x^2}{a^2}-\frac{y^2}{b^2}=1\iff\frac{x^2}{a^2}+\frac{y^2}{(b
 ### 2
 
 \\(\alpha x^2+\beta y^2=\gamma\\) and \\(Ax^2+By+C=0\\) \\(\iff\\) \\((\alpha B^2+\beta A^2)x^2+2CA\beta x+\beta C^2-\gamma B^2\\)
+
+\\(l=\frac{2\sqrt{a^2b^2(A^2+B^2)\Delta'}}{a^2A^2+b^2B^2}\\)
