@@ -57,3 +57,10 @@ Note: The side edge is perpendicular to the projection surface.
 ### NCEE
 
 ![0](Solid_geometry/NCEE-0.jpg)
+
+## Theorem 0
+
+(need more study)
+
+\\(sin\alpha=sin\beta\cdot\sin\gamma\\)
+\\(\alpha\\) 线面 \\(\beta\\) 锐二面角 \\(\gamma\\) 线与交线夹角
