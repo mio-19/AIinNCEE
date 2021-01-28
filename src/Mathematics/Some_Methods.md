@@ -1,4 +1,4 @@
-# Some Methods
+# Some (General?) Methods
 
 ## Making up Proportion
 
@@ -13,3 +13,7 @@
 ## Making up function and number sequence
 
 Construct a constant function or a constant number sequence that satisfies the multiple choice question whenever possible.
+
+## Skip the step of construct \\(g(x)\\)
+
+......+\\(f'(x)\\)+.........\\(<0 \iff\\) \\(g'(x) < 0\\)
