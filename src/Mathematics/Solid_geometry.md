@@ -64,3 +64,13 @@ Note: The side edge is perpendicular to the projection surface.
 
 \\(sin\alpha=sin\beta\cdot\sin\gamma\\)
 \\(\alpha\\) 线面 \\(\beta\\) 锐二面角 \\(\gamma\\) 线与交线夹角
+
+## Statistical Theorem 1
+
+\\(V=\frac{4}{3}\pi R^3\\)
+
+In general, the radius of the ball is regular which means that radius won't be something like \\(\sqrt[3]{\text{...}}\\)
+
+### NCEE
+
+![](Solid_geometry/NCEE-1.jpg)
