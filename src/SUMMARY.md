@@ -19,7 +19,6 @@
         - [为政以德](Chinese/論語-MindMap/为政以德.md)
         - [克己复礼](Chinese/論語-MindMap/克己复礼.md)
         - [诲人不倦](Chinese/論語-MindMap/诲人不倦.md)
-- [English](English/README.md)
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
     - [Derivative](Mathematics/Derivative.md)
