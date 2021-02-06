@@ -36,5 +36,6 @@
     - [Kinetic energy](Physics/Kinetic-energy.md)
     - [Magnetic Field](Physics/Magnetic-Field.md)
     - [Momentum](Physics/Momentum.md)
+    - [Motion](Physics/Motion.md)
     - [Movement](Physics/Movement.md)
 - [Utilities](Utilities.md)
