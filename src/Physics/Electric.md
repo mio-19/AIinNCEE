@@ -1,5 +1,7 @@
 # Eletric
 
+\\(\varphi=k\frac{Q}{R}\\)
+
 ## Eletric Field
 
 ### Uniform electric Field
