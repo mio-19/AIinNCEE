@@ -38,6 +38,8 @@ If the point of the center of the circle is on the lines of the enter and/or exi
 
 ![](Magnetic-Field/Shape1.jpg)
 
+Velocity deflection angle = 2 * chord tangent angle
+
 ## Procedure: Decompose Lorentz force
 
 [Wikipedia](https://web.archive.org/web/20201223112642/https://en.wikipedia.org/wiki/Lorentz_force)
