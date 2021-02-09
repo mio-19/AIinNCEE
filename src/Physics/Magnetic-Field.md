@@ -55,3 +55,9 @@ For NCEE:
 ### NCEE
 
 ![3](Magnetic-Field/NCEE-3.jpg)
+
+#### 2
+
+![](Magnetic-Field/NCEE-4.jpg)
+
+Hint: rotate the diagram
