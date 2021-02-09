@@ -44,6 +44,8 @@ If the point of the center of the circle is on the lines of the enter and/or exi
 
 diameter of the circle = chord length of the motion
 
+area of mimimal rectangle = height of ircular segment * chord length
+
 #### NCEE
 
 ![](Magnetic-Field/NCEE-5.png)
