@@ -40,6 +40,14 @@ If the point of the center of the circle is on the lines of the enter and/or exi
 
 ![](Magnetic-Field/Shape1.jpg)
 
+### Minimal circle
+
+diameter of the circle = chord length of the motion
+
+#### NCEE
+
+![](Magnetic-Field/NCEE-5.png)
+
 ## Procedure: Decompose Lorentz force
 
 [Wikipedia](https://web.archive.org/web/20201223112642/https://en.wikipedia.org/wiki/Lorentz_force)
