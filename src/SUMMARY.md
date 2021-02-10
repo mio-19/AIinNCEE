@@ -12,6 +12,7 @@
     - [Structure of matter: Electron-dot diagram & Structural formula](Chemistry/Structure.md)
     - [Weak electrolyte](Chemistry/Weak-electrolyte.md)
 - [Chinese](Chinese/README.md)
+    - [Classical Chinese](Chinese/Classical_Chinese.md)
     - [Novel](Chinese/Novel.md)
     - [Poetry](Chinese/Poetry.md)
     - [Write from memory](Chinese/Write_from_memory.md)
