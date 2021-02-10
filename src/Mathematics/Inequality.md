@@ -23,3 +23,13 @@
 ......
 
 \\(\frac{\sqrt{3}-1}{2}\\)
+
+## Taylor series (Maclaurin series)
+
+http://web.archive.org/web/20210210002037/https://www.bilibili.com/video/BV1Gb411L7PM
+http://web.archive.org/web/20210210002052/https://en.wikipedia.org/wiki/Taylor_series
+
+\\(\displaystyle \sum_{n=0}^\infty \frac{f^{(n)}(0)}{n!}x^n\\)
+\\(\displaystyle \sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!}(x-a)^n\\)
+
+Sometimes the first few terms of the series is used.
