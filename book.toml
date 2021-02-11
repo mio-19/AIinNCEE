@@ -19,6 +19,6 @@ mathjax-support = true
 #[output.linkcheck]
 #follow-web-links = true
 
-[output.html.fold]
-enable = true
-level = 0
+#[output.html.fold]
+#enable = true
+#level = 0
