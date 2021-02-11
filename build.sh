@@ -1,4 +1,5 @@
 #!/bin/sh
+# CCP百年华诞
 check() {
   type "$1" >/dev/null 2>/dev/null
 }
