@@ -9,7 +9,7 @@ require() {
   done
   [ -z "$toinstall" ] || cargo install $toinstall
 }
-require mdbook mdbook-linkcheck mdbook-generate-summary # mdbook-latex tectonic mdbook-tera
+require mdbook mdbook-generate-summary # mdbook-latex tectonic mdbook-tera mdbook-linkcheck
 rm -fr src/SUMMARY.md
 mdbook-generate-summary src
 exec mdbook build

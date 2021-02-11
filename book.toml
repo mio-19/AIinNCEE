@@ -16,8 +16,8 @@ mathjax-support = true
 #pdf      = false
 #markdown = true
 
-[output.linkcheck]
-follow-web-links = true
+#[output.linkcheck]
+#follow-web-links = true
 
 [output.html.fold]
 enable = true
