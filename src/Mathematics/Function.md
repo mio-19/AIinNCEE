@@ -1,5 +1,7 @@
 # Function
 
+[穿针引线法](http://web.archive.org/web/20210212142041/https://baike.baidu.com/item/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E6%B3%95)
+
 ## Periodic function
 
 ### NCEE
