@@ -22,6 +22,7 @@
         - [诲人不倦](Chinese/論語-MindMap/诲人不倦.md)
 - [Handwriting](Handwriting.md)
 - [Mathematics](Mathematics/README.md)
+    - [Algebraic substitutions](Mathematics/Algebraic_substitutions.md)
     - [Derivative](Mathematics/Derivative.md)
     - [Exponential & Logarithm](Mathematics/Exponential_Logarithm.md)
     - [Function](Mathematics/Function.md)
