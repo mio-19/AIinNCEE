@@ -33,3 +33,5 @@
 \\(\displaystyle \sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!}(x-a)^n\\)
 
 Sometimes the first few terms of the series is used.
+
+### Special case 0: Deflation as tangent (放缩为切线)
