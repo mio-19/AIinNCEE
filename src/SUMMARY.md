@@ -32,6 +32,7 @@
     - [Solid geometry](Mathematics/Solid_geometry.md)
     - [Some (General?) Methods](Mathematics/Some_Methods.md)
     - [Statistics & Probability](Mathematics/Statistics_Probability.md)
+    - [Trigonometric](Mathematics/Trigonometric.md)
 - [Physics](Physics/README.md)
     - [Eletric](Physics/Electric.md)
     - [Force](Physics/Force.md)
