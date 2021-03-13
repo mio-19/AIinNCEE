@@ -7,3 +7,7 @@
 ### NCEE
 
 ![](Trigonometric/NCEE-1.jpg)
+
+## 张角定理
+
+[Wikipedia](http://web.archive.org/web/20210313021543/https://zh.wikipedia.org/wiki/%E5%BC%A0%E8%A7%92%E5%AE%9A%E7%90%86)
