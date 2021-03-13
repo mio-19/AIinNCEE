@@ -34,6 +34,7 @@
     - [Statistics & Probability](Mathematics/Statistics_Probability.md)
     - [Trigonometric](Mathematics/Trigonometric.md)
 - [Physics](Physics/README.md)
+    - [Conveyor belt](Physics/Conveyor-belt.md)
     - [Eletric](Physics/Electric.md)
     - [Force](Physics/Force.md)
     - [Kinetic energy](Physics/Kinetic-energy.md)
